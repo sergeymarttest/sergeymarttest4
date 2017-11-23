@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://dll1.000webhostapp.com/index.html</loc>
+    <lastmod>2017-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dll1.000webhostapp.com/images/3-crop-u165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dll1.000webhostapp.com/images/4-crop-u1341.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dll1.000webhostapp.com/images/23-crop-u1456.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dll1.000webhostapp.com/assets/jquery.applescroll.min.js</loc>
+    <lastmod>2014-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dll1.000webhostapp.com/assets/jquery.applescroll.css</loc>
+    <lastmod>2014-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dll1.000webhostapp.com/assets/jquery.slimscroll.min.js</loc>
+    <lastmod>2014-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
